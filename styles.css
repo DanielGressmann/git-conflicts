@@ -8,9 +8,9 @@
 }
 
 body {
-  width: min(100% - 2rem, 68ch), 100% - var(--body-padding));
+  width: min(100% - 2rem, 68ch), 100% - var(--body-padding);
   margin: 0 auto;
-  
+
   color: var(--color-text);
   font-family: var(--font);
 }
@@ -19,3 +19,4 @@ footer {
   margin-top: 2rem;
   color: var(--color-text-light);
   font-size: 0.8rem;
+}
